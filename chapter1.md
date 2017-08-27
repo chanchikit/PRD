@@ -1,4 +1,4 @@
-![# ](/assets/MSDN.jpg)# Matrix多语言需求文档
+#Matrix多语言
 
 ---
 ##文档备案
